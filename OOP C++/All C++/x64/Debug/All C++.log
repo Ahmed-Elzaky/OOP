@@ -1,0 +1,10 @@
+﻿  Arrays.cpp
+  flowControl.cpp
+  One.cpp
+  customType.cpp
+C:\Users\A7med\source\repos\All C++\All C++\customType.cpp(19,22): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\A7med\source\repos\All C++\All C++\customType.cpp(27,24): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\A7med\source\repos\All C++\All C++\customType.cpp(34,24): warning C4305: '=': truncation from 'double' to 'float'
+  pointers.cpp
+  Generating Code...
+  All C++.vcxproj -> C:\Users\A7med\source\repos\All C++\x64\Debug\All C++.exe
